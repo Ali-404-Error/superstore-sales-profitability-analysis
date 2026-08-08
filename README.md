@@ -93,3 +93,14 @@ An interactive Tableau dashboard was developed to transform the raw data into ac
 
 5. **Evaluate discounts alongside other factors**  
    Since the discount-profit relationship was extremely weak and statistically insignificant, discount levels should be evaluated alongside product, regional, pricing, and profitability factors rather than in isolation.
+
+## Dashboard
+
+The interactive Tableau dashboard provides a consolidated view of:
+
+- Key performance indicators
+- Sales trends over time
+- Category performance
+- Regional performance
+- Profitability by category
+- Interactive filtering by region and category
