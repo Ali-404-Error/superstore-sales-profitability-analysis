@@ -5,3 +5,17 @@
 This project analyzes the Superstore dataset to evaluate overall sales performance, profitability, product performance, category performance, regional performance, and the relationship between discounts and profit.
 
 An interactive Tableau dashboard was developed to transform the raw data into actionable business insights and recommendations.
+
+## Tools & Skills
+
+- Tableau
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Sales & Profitability Analysis
+- KPI Analysis
+- Trend Analysis
+- Product & Category Analysis
+- Regional Analysis
+- Statistical Analysis
+- Business Intelligence
+- Data-Driven Business Recommendations
