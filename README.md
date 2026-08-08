@@ -106,3 +106,9 @@ The interactive Tableau dashboard provides a consolidated view of:
 - Interactive filtering by region and category
 
 ![Superstore Sales & Profitability Dashboard](images/dashboard.png)
+
+## Tableau Workbook
+
+The Tableau workbook contains the complete interactive dashboard and supporting analysis.
+
+The `.twbx` file can be opened with Tableau to explore the dashboards, worksheets, filters, calculated fields, and visualizations.
