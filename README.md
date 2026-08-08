@@ -105,4 +105,4 @@ The interactive Tableau dashboard provides a consolidated view of:
 - Profitability by category
 - Interactive filtering by region and category
 
-![Superstore Sales & Profitability Dashboard](images/dashboard.png)
+![Superstore Sales & Profitability Dashboard](images/dashboard.png.png)
