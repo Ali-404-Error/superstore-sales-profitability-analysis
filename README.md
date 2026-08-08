@@ -76,3 +76,20 @@ An interactive Tableau dashboard was developed to transform the raw data into ac
   - **R² = 0.0052**
   - **p = 0.7836**
 - Therefore, discount level alone does not appear to meaningfully explain differences in profit in this analysis.
+
+## Business Recommendations
+
+1. **Improve Furniture profitability**  
+   Investigate pricing, costs, and product-level profitability within the Furniture category, which has a significantly lower profit margin than Technology and Office Supplies.
+
+2. **Review high-loss products**  
+   Investigate products generating substantial losses, particularly the *Cubify CubeX 3D Printer Double Head Print*, which recorded the largest individual loss of $8,880.
+
+3. **Investigate Central region profitability**  
+   Analyze the product mix, pricing, discounting, and costs in the Central region to understand why it generates less profit than South despite higher sales.
+
+4. **Continue supporting Technology performance**  
+   Technology leads in sales, total profit, and profit margin. Identifying the products and sub-categories driving this performance could help inform future business decisions.
+
+5. **Evaluate discounts alongside other factors**  
+   Since the discount-profit relationship was extremely weak and statistically insignificant, discount levels should be evaluated alongside product, regional, pricing, and profitability factors rather than in isolation.
