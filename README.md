@@ -123,3 +123,18 @@ The `.twbx` file can be opened with Tableau to explore the dashboards, worksheet
 - Identified major loss-making products.
 - Evaluated the relationship between discounts and profit using trend-line analysis.
 - Translated analytical findings into business recommendations.
+
+## Skills Demonstrated
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Development
+- KPI Development
+- Trend Analysis
+- Profitability Analysis
+- Product Performance Analysis
+- Regional Performance Analysis
+- Statistical Interpretation
+- Business Insight Generation
+- Data-Driven Decision Making
