@@ -112,6 +112,7 @@ The interactive Tableau dashboard provides a consolidated view of:
 The Tableau workbook contains the complete interactive dashboard and supporting analysis.
 
 The `.twbx` file can be opened with Tableau to explore the dashboards, worksheets, filters, calculated fields, and visualizations.
+[📥 Download the Tableau Workbook (.twbx)](./Superstore_Sales_profitability_Analyisis.twbx)
 
 ## Project Highlights
 
